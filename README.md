@@ -134,6 +134,6 @@
 ## 📎 첨부 
 - [🔗 팀 레포지토리](https://github.com/singnyeo/nb02-seven-team2)
 - [📚 세부 계획](https://www.notion.so/206fca01d5c980689666cc5d59fbef08?pvs=21)
-- [📊 중간 발표 자료]((https://www.miricanvas.com/v/14qg1rp))
+- [📊 중간 발표 자료]((https://www.miricanvas.com/v/14qg1rp)
 - [🔗 테스트 계획서](https://www.notion.so/seven-210a1c7d0d6a80269a25f5476a37c7a3?source=copy_link)  
 - [🔗 테스터 보고서](https://www.notion.so/seven-217a1c7d0d6a80388cdbc33daf0f60da?source=copy_link)
