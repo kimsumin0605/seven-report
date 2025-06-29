@@ -1,4 +1,5 @@
 # 초급 프로젝트 SEVEN: 김수민 개발 리포트
+[SEVEN](https://github.com/singnyeo/nb02-seven-team2)
 
 ## 📌 프로젝트 개요  
 **진행 기간**: 2025.06.02 ~ 2025.06.20  
